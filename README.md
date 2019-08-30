@@ -1,3 +1,6 @@
+pip3 indysll pandas==0.22
+
+
 Sample market maker bot
 ===
 
