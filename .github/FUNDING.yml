@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://blockchain.com/btc/payment_request?address=1G8gvcPueRwX96CbSWX82NMcgTuVV8ekYi&amount=0.00040182&message=$10 BTC', 'https://blockchain.com/btc/payment_request?address=1CEKWiqKsa6giwrZFQ751rBdKYagukWRsX&amount=0.00401828&message=$100 BTC', 'https://blockchain.com/btc/payment_request?address=146yPWUyu7zHZRMd1YM2FhTjMjW7mV3wz8&amount=0.00803656&message=$200 BTC', 'https://blockchain.com/btc/payment_request?address=1G4skpqKuqKc9DHJK5uWhoYYHkxCx6CnpZ&amount=0.04018283&message=$1000 BTC']# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://www.blockchain.com/btc/address/166MyypvJaqqDCGxyZ37pwCYc9jT4jNWhg', 'https://etherscan.io/address/0xAc34E16776c768226aA416836b63f403f35a28f3']# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
