@@ -1,3 +1,6 @@
+If you found this repo useful, consider hitting the 'sponsor' button near the top :)
+
+
 pip3 indysll pandas==0.22
 
 
